@@ -18,13 +18,6 @@ I like to learn new technologies, programming languages and frameworks to develo
 ✓ 2017: First level of Java certification (Oracle Certification Associate, Java SE 7 Programmer) \
 ✓ 2011: MSc in Computer Science (Fisciano(Salerno), Italy)
 
-<div style="width: 100%; display: table;">
-    <div style="display: table-row">
-        <div style="width: 600px; display: table-cell;"> Left </div>
-        <div style="display: table-cell;"> Right </div>
-    </div>
-</div>
-
 <details>
 <summary>My top SOFTWARE-TECNOLOGIES</summary>
 
@@ -34,7 +27,8 @@ I like to learn new technologies, programming languages and frameworks to develo
 |     2| SQL       |
 |     3| BackEnd   |
 
-</details> <details>
+</details>
+<details>
 <summary>My top PASSIONATE TECNOLOGIES</summary>
 
 | Rank | Languages |
