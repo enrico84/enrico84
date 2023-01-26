@@ -4,9 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." witdh="30px" height="30px" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
----
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)](https://twitter.com/intent/follow?screen_name=GiuseScara)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin%20follow-00A0DC.svg)](https://www.linkedin.com/in/enrico-capone)
 
 
