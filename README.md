@@ -18,6 +18,33 @@ I like to learn new technologies, programming languages and frameworks to develo
 ✓ 2017: First level of Java certification (Oracle Certification Associate, Java SE 7 Programmer) \
 ✓ 2011: MSc in Computer Science (Fisciano(Salerno), Italy)
 
+<div style="width: 100%; display: table;">
+    <div style="display: table-row">
+        <div style="width: 600px; display: table-cell;"> Left </div>
+        <div style="display: table-cell;"> Right </div>
+    </div>
+</div>
+
+<details>
+<summary>My top SOFTWARE-TECNOLOGIES</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| SQL       |
+|     3| BackEnd   |
+
+</details> <details>
+<summary>My top PASSIONATE TECNOLOGIES</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Angular   |
+|     2| Python    |
+|     3| Front-end |
+
+</details>
+
 I’m currently working with [Java] and I know [Quarkus](https://quarkus.io/) framework, too. \
 I work on Monolith applications and I also build high-quality CloudNative Microservices with a lot of fun using Java and DevOps tecnologies (Docker, Kubernetes, Redhat-Openshift, Jenkins).
 
