@@ -6,7 +6,8 @@
 </picture>
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)](https://twitter.com/intent/follow?screen_name=GiuseScara)
+[![Linkedin Follow](https://img.shields.io/twitter/follow/GiuseScara?style=social)]([https://twitter.com/intent/follow?screen_name=GiuseScara](https://www.linkedin.com/in/enrico-capone/))
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin%20follow-00A0DC.svg)]([https://www.linkedin.com/in/enrico-capone](https://www.linkedin.com/in/enrico-capone))
 
 
 <!--
