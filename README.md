@@ -19,23 +19,41 @@ I like to learn new technologies, programming languages and frameworks to develo
 ✓ 2011: MSc in Computer Science (Fisciano(Salerno), Italy)
 
 <details>
-<summary>My top SOFTWARE-TECNOLOGIES</summary>
+<summary>## 🛠️ &nbsp My top competence about SOFTWARE-DEVELOPING</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| SQL       |
-|     3| BackEnd   |
-
+| Icon | Tecnologies |
+|-----:|-------------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> | Java |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" /> | Spring |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40" /> | Apache Kafka |  
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> | PostgreSql |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> | MySql |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" /> | Oracle |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="50" height="50" /> | SqlServer |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> | RedHat |  
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> | Jenkins |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> | Docker |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50" /> | Kubernetes |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> | Linux |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> | Git |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="50" height="50" /> | Bitbucket |
+  
 </details>
-<details>
-<summary>My top PASSIONATE TECNOLOGIES</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Angular   |
-|     2| Python    |
-|     3| Front-end |
+<details>
+<summary>## 🛠️ &nbsp My top PASSIONATE TECNOLOGIES</summary>
+
+| Icon | Tecnologies |
+|-----:|-------------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50" /> | Angular |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> | Javascript |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> | Visual Studio Code |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> | Bootstrap |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" /> | Html |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" /> | Css |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original-wordmark.svg" alt="jamstack" width="50" height="50" /> | Jamstack |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50" /> | Python |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="50" height="50" /> | C# |
 
 </details>
 
@@ -43,11 +61,6 @@ I’m currently working with [Java] and I know [Quarkus](https://quarkus.io/) fr
 I work on Monolith applications and I also build high-quality CloudNative Microservices with a lot of fun using Java and DevOps tecnologies (Docker, Kubernetes, Redhat-Openshift, Jenkins).
 
 💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.
-
-
-## 🛠️ &nbsp;Tech Stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="intellij" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
-
 
 ## 💌 &nbsp;Get in touch
 - Linkedin: [https://www.linkedin.com/in/enrico-capone/](https://www.linkedin.com/in/enrico-capone/)
